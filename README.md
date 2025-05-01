@@ -2,7 +2,7 @@
 - 👀 I’m interested in 
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me  thejokeras10@gmail.com
+- 📫 How to reach me  achuths19@gmail.com
 
 <!---
 AchuthS/AchuthS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
